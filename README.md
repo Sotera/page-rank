@@ -1,3 +1,7 @@
+This project is now deprecated. (See: [Distributed Graph Analytics](https://github.com/Sotera/distributed-graph-analytics))
+==========================================================
+
+
 Page Rank
 ==============================
 This project is a Giraph/Hadoop implementation of a distributed version of the Page Rank algorithm.
